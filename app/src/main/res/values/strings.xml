@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Currency Rate</string>
+    <string name="image_reverse">image swap</string>
+    <string name="update_menu">Update</string>
+    <string name="nothing_menu">Nothing</string>
+    <string name="close">Close</string>
+    <string name="dialog_calculate_title">Calculate</string>
+    <string name="valute_calculate_param">RUS</string>
+    <string name="equals">=</string>
+    <string name="rub">р</string>
+    <string name="rub_r">р</string>
+    <string name="toast_error">Error to connect server!</string>
+</resources>

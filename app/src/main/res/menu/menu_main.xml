@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gio.currencyrate.MainActivity">
+    <item
+        android:id="@+id/action_main_update"
+        android:title="@string/update_menu" />
+</menu>

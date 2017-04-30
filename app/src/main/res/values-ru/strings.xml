@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Курс валют</string>
+    <string name="image_reverse">картынка смена</string>
+    <string name="update_menu">Обновить</string>
+    <string name="nothing_menu">Ничего</string>
+    <string name="close">Закрыть</string>
+    <string name="dialog_calculate_title">Расчитать</string>
+    <string name="toast_error">Ошибка подключения к серверу. Проверьте настройки сети или повторите попытку позже</string>
+</resources>
